@@ -1,2 +1,9 @@
-saran.html
-c:\Users\ELCOT\Pictures\Screenshots\vijay devor img.png  
+ <!DOCTYPE html>
+ <html>
+    <body>
+
+        <h1>HTML Form</h1>
+        <form action="/actin__page.php"></form>
+    </body>
+ </html>
+        
